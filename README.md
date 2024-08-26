@@ -49,7 +49,9 @@ TBD
 
 #### MacOS
 
-TBD
+1. Open the Finder
+2. Menu Go -> Connect to Server ...
+3  Enter http://127.0.0.1:4918
 
 ## Testing
 
